@@ -1,0 +1,22 @@
+.createArticlepage{
+
+}
+.createArticlepage h1 {
+    text-align: right;
+    margin: 40px 0;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.inputwrapper label{
+    display: block;
+    margin-bottom: 5px;
+    text-align: right;
+
+}
+.inputwrapper input{
+    width: 100%;
+    padding: 10px;
+    
+
+}

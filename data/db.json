@@ -1,0 +1,77 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTagpY-cN5xqWSfAxd27JFkPI8erIP8CXP2_A&s",
+            "title": "عنوان اول",
+            "readingTime": 5,
+            "date":"1404/02/23",
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+        },
+        {
+            "id": 2,
+            "imageUrl":"https://www.chetor.com/wp-content/uploads/2021/12/wayback-2.jpg",
+            "title": "عنوان دوم",
+            "readingTime": 6,
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+
+        },
+        {
+            "id": 3,
+            "imageUrl":"https://googlesenf.com/wp-content/uploads/2023/01/reinhart-julian-WxM465oM4j4-unsplash-1024x683-min.jpg",
+            "title": "عنوان سوم",
+            "readingTime": 2,
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+
+        },
+         {
+            "id": 4,
+            "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTagpY-cN5xqWSfAxd27JFkPI8erIP8CXP2_A&s",
+            "title": "عنوان چهارم",
+            "readingTime": 5,
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+
+        },
+        {
+            "id": 5,
+            "imageUrl":"https://www.chetor.com/wp-content/uploads/2021/12/wayback-2.jpg",
+            "title": "عنوان پنج",
+            "readingTime": 6,
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+
+        },
+        {
+            "id": 6,
+            "imageUrl":"https://googlesenf.com/wp-content/uploads/2023/01/reinhart-julian-WxM465oM4j4-unsplash-1024x683-min.jpg",
+            "title": "عنوان شش",
+            "readingTime": 2,
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+
+        },
+         {
+            "id": 7,
+            "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTagpY-cN5xqWSfAxd27JFkPI8erIP8CXP2_A&s",
+            "title": "عنوان هفت",
+            "readingTime": 5,
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+
+        },
+        {
+            "id": 8,
+            "imageUrl":"https://www.chetor.com/wp-content/uploads/2021/12/wayback-2.jpg",
+            "title": "عنوان هشت",
+            "readingTime": 6,
+            "athor":"hossein",
+            "content":"نادین سافت هر نوع نیازی را با استفاده از راهکارهای تحت وب پوشش می‌دهد. ما با همراهی خود شما، بهترین راه حل را خلق می‌کنیم."
+
+        }     
+        ]
+        }
+    
